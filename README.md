@@ -1,2 +1,2 @@
 # ChromeExt_Clock
-Chrome extension Clock
+Расширение для Chome показывающее часы
